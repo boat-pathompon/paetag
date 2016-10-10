@@ -35,6 +35,7 @@ gem 'lodash-rails'                        # Lodash integration
 gem 'react-rails'                         # React integration.
 gem 'select2-rails'                       # Select2 integration.
 gem 'simple_form'                         # Form generator.
+gem 'sprockets-coffee-react'              # Make JSX work wth coffeescript.
 gem 'turbolinks', '~> 5'                  # Partial load page.
 
 group :development do
